@@ -2,7 +2,6 @@
 <h1 align="center">welcome,I am Subham Behera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/88930014/216980544-989701d4-b90a-4f8a-be9b-58f35a98acad.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhamBehera01&label=Profile%20views&color=0e75b6&style=flat" alt="SubhamBehera01" /> </p>
 
 •⁠  ⁠🌱 I’m currently learning *front-end developing*
 
