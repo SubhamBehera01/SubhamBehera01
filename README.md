@@ -5,12 +5,19 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2714e136e960f9da4635d92d09b8fd8e32ad9a6c2b96a8c700e98457cab91031/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d6979616461733031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
 <img src="https://camo.githubusercontent.com/2714e136e960f9da4635d92d09b8fd8e32ad9a6c2b96a8c700e98457cab91031/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d6979616461733031266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="SubhamBehera01" data-canonical-src="https://komarev.com/ghpvc/?username=SubhamBehera01&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhamBehera01&show_icons=true&locale=en&layout=compact" alt="SubhamBehera01" /></p>
 
 •⁠  ⁠🌱 I’m currently learning *front-end developing*
 
 •⁠  ⁠📫 How to reach me *beherasubham314@gmail.com*
+<br>
+<br>
+<br>
+<br>
+<h1 tabindex="-1" class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"></a> &nbsp; SUBHAM &nbsp; <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="max-width: 100%;"></a></h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhamBehera01&show_icons=true&locale=en&layout=compact" alt="SubhamBehera01" /></p>
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" style="max-width: 100%;">
+
 <!--
 **SubhamBehera01/SubhamBehera01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
